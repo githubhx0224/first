@@ -1,0 +1,12 @@
+div {
+  width: 200px;
+  height: 150px;
+  background-color: red;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+div:hover {
+  color: red;
+}

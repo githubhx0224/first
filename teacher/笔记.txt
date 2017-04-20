@@ -1,0 +1,23 @@
+src :  项目源码目录    -> 开发过程中的代码  less ……
+bulid : 项目构建目录		 -> 开发编译后的代码（非压缩） css
+dist : 项目目录       -> 编译后并压缩、混淆……
+
+
+gulp
+gulp-htmlmin
+gulp-less
+gulp-cssmin
+gulp-concat
+gulp-rename
+gulp-uglify
+gulp-autoprefixer
+gulp-imagemin
+gulp-clean
+gulp-plumber
+gulp-load-plugins
+browser-sync
+
+工作流的搭建
+1、初始化项目目录package.json
+2、安装工作流相关的组件
+3、创建gulpfile.js
